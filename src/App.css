@@ -118,6 +118,13 @@ h2 {
   background-color: #c4c4c4;
 }
 
+.footer {
+  background-color: rgb(20, 18, 18);
+  height: 10vh;
+  width: 100%;
+
+}
+
 @media only screen and (min-width: 738px) {
   * {
     box-sizing: border-box;

@@ -56,6 +56,8 @@ const Content = () => {
         Sea of Stars
       </div>
 
+      
+
     </div>
   )
 }
