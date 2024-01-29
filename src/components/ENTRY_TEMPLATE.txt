@@ -1,0 +1,11 @@
+<div className='entry'>
+        &nbsp;&nbsp;&nbsp;Hello, world
+      </div>
+      <div className='entry-image'>
+      </div>
+      <img src=".PNG" alt="Game"></img>
+      <div className='entry-title'>
+        Hello, Title
+      </div>
+
+    </div>
