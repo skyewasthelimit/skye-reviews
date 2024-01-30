@@ -49,7 +49,7 @@ const Content = () => {
       was not mature enough for my taste but there are many parts that left a great impact as a whole.
       <br></br>
       <img className="entry-screenshot" src="https://www.rpgfan.com/wp-content/uploads/2021/12/Sea-of-Stars-Screenshot-083.png" alt="sea of stars screenshot 3"></img>
-      <h2>Final Rating: 7.5 / 10</h2>
+      <h2 className='rating'>Final Rating:</h2> <h2>7.5 / 10</h2>
       &nbsp;&nbsp;&nbsp;Overall I had an awesome time with Sea of Stars and it has plenty of content to offer including an end game arc for players wanting a bit more. A genuinely 
       fun game with great retro appeal for the JRPG lover.
 

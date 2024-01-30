@@ -131,6 +131,10 @@ img,
   margin: 2px;
 }
 
+.rating {
+  color: #803bff;
+}
+
 .fa-magnifying-glass {
   color: white;
 }
