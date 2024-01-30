@@ -54,7 +54,7 @@ const Content = () => {
       <div className='entry-image'>
       </div>
       <img src="https://image.api.playstation.com/vulcan/ap/rnd/202303/0921/500cf443c7a7e8a36a882c393ecb1d4a20b9c04bfef9ad57.png" alt="Game"></img>
-      <div className='entry-title'>
+      <div className='entry-title' id="sea-of-stars">
         Sea of Stars
       </div>
 
