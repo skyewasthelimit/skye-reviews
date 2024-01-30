@@ -6,7 +6,7 @@ const Content = () => {
 
       <div className='entry'>
         &nbsp;&nbsp;&nbsp;Developed by Sabotage Studio, Sea of Stars was another crowd funded Kickstarter success and a solid
-        standout entry in the heavy hitting line up of 2024 game releases.
+        standout entry in the heavy hitting line up of 2023 game releases.
       <br></br>
       <h3>Gameplay</h3>
       &nbsp;&nbsp;&nbsp;A heavily inspired title, Sea of Stars draws influence from
