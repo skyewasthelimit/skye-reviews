@@ -1,8 +1,10 @@
 import React from 'react';
 import './App.css';
+import { Link } from 'react-router-dom'
 
 import Navbar from './components/Navbar';
 import Content from './components/Content';
+import About from './components/About';
 
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
@@ -12,12 +14,14 @@ function App() {
     <div className="main">
       <Navbar />
       <div className='content'>
-        <Content />
+        <Routes>
+          <Route path="/" element={<Content />} />
+          <Route path="/About" element={<About />} />
+        </Routes>
       </div>
       <div className='footer'>
       </div>
     </div>
-
   </Router>
   );
 }
