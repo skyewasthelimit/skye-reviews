@@ -159,8 +159,9 @@ img,
 }
 
 fieldset {
+  border: none;
   padding: 2rem 0;
-  border: 1px solid #ffffff;
+  margin-bottom: 100px;
 }
 
 label {
@@ -333,12 +334,12 @@ label {
     padding: 10px;
     margin: 20px;
     background-color: #6441a5;
-    gap: 10px;
   }
 
   fieldset {
     padding-right: auto;
-    border: 1px solid #ffffff;
+    margin-bottom: 200px;
+    gap: 10px;
   }
 
   label {
@@ -348,6 +349,7 @@ label {
 
   .form-input {
     padding-right: 20px;
+    padding: 4px;
     margin: 4px 0px 4px 6px;
     background-color: #d3d2d2;
   }

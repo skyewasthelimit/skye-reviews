@@ -5,8 +5,8 @@ const Review = () => {
   return (
     <div className='review-form'>
       <div className='form-entry'>
-        <p className='entry-text'>Submit a Review</p>
-      <form className="" method="post" action='mailto:skyemclean87@gmail.com'>
+        <p className='entry-text'>Submit a Review : FEATURE CURRENTLY UNAVAILABLE</p>
+      <form className="form-for-reviews" method="post" action='mailto:skyemclean87@gmail.com'>
         <fieldset>
         <label for="game-name">Game:<input className='form-input' placeholder="Game name" required></input></label>
         <label for="review"><textarea className='form-input' rows="3" cols="30" placeholder='Your review'required></textarea></label>
