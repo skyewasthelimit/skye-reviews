@@ -8,15 +8,16 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (<Router>
-    <Navbar />
+
     <div className="main">
+      <Navbar />
       <div className='content'>
         <Content />
       </div>
+      <div className='footer'>
+      </div>
     </div>
-    <div className='footer'>
 
-    </div>
   </Router>
   );
 }

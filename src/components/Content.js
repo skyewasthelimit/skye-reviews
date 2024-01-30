@@ -5,6 +5,7 @@ const Content = () => {
     <div className='reviews'>
 
       <div className='entry'>
+        <p className='entry-text'>
         &nbsp;&nbsp;&nbsp;Developed by Sabotage Studio, Sea of Stars was another crowd funded Kickstarter success and a solid
         standout entry in the heavy hitting line up of 2023 game releases.
       <br></br>
@@ -47,7 +48,7 @@ const Content = () => {
       &nbsp;&nbsp;&nbsp;Overall I had an awesome time with Sea of Stars and it has plenty of content to offer including an end game arc for players wanting a bit more. A genuinely 
       fun game with great retro appeal for the JRPG lover.
 
-      
+      </p>
       </div>
       <div className='entry-image'>
       </div>

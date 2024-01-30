@@ -15,7 +15,7 @@ const Navbar = () => {
         <div className='nav-link'>Home</div>
         <a href="https://skyewasthelimit.netlify.app/" rel="noreferrer" target='_blank'><div className='nav-link'>About</div></a>
         <a href="mailto:skyemclean87@gmail.com"><div className='nav-link'>Contact</div></a>
-        <div className='review-btn'>Review My Game</div>
+        <div className='review-btn'>Review</div>
       </div>
     </div>
   )
