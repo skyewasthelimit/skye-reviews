@@ -13,8 +13,8 @@ const About = () => {
           <br></br>
           <br></br>
           &nbsp;&nbsp;&nbsp;The other purpose of this website is to give my friends, viewers,
-          community members a place to submit their own reviews too! It's a fun hobby to practice writing
-          and we I have a lot of passionate fellow gamers in my circle who I hope will also help contribute to 
+          community members and fellow gamers a place to submit their own reviews too! It's a fun hobby to practice writing
+          and I have a lot of passionate fellow gamers in my circle who I hope will also help contribute to 
           this site's content and purpose!
           <br></br>
           <br></br>
