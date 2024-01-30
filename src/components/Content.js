@@ -14,7 +14,7 @@ const Content = () => {
       excellent retro titles such as Chrono Trigger and Super Mario RPG. You can expect
       to see enemies on the area maps and engage in turn-based combat directly
       on the scene. The usage of timed hits and defends makes for engaging and often tense
-      battles. Though rarely did I feel the need to grind, you are able to respawn enemies by leaving
+      battles. Though, rarely did I feel the need to grind, you are able to respawn enemies by leaving
       and re-entering an area. Players can expect to level up and make choices in 
       building their characters abilities to their liking. The game does offer
       open-world exploration but it is designed as a linear experience. You will utilize
@@ -37,9 +37,9 @@ const Content = () => {
       <br></br>
       <h3>Story</h3>
       &nbsp;&nbsp;&nbsp;Taking place within The Messenger universe, Sea of Stars story visits a few different themes including: grief, growth, friendship, pirates and of course the 
-      always cliche - saving the world. Your adventure will take you to a variety of locations and biomes including snow, dessert, tropical islands and
-      deep deep under the ocean and many more! You follow the story of two heroes named Valere and Zale
-      who possess the powers of the moon and the sun which they harness to fight evil forces. Your journey is adjoined byseveral companions you meet along the way.
+      always cliche - saving the world. Your adventure will take you to a variety of locations and biomes including snow, dessert, tropical islands deep deep under the ocean and 
+      many more! You follow the story of two heroes named Valere and Zale
+      who possess the powers of the moon and the sun which they harness to fight evil forces. Your journey is adjoined by several companions you meet along the way.
       I think my personal favourite was Garl who is the childhood friend of the main characters and is the main chef of the party and an enthusiastic and positive influence
       on the group throughout. Sea of Stars does a great job of incorporating a few mind bending elements such as time travel along the way to create a rich
       and entertaining experience for the player. The storytelling is strong and delivers the point but can often be a bit overly cheery and some of the character development

@@ -1,5 +1,7 @@
-<div className='entry'>
+      <div className='entry'>
+      <p className='entry-text'>
         &nbsp;&nbsp;&nbsp;Hello, world
+        </p>
       </div>
       <div className='entry-image'>
       </div>
@@ -8,4 +10,4 @@
         Hello, Title
       </div>
 
-    </div>
+      </div>
