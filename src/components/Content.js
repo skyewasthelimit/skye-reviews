@@ -26,6 +26,7 @@ const Content = () => {
       My personal feelings are I wish there were a few more abilities to use because I often ended up only
       using a few main abilities myself for each character. You can take advantage of a bonfire mechanic to
       replenish your party's health and mana.
+      <img className="entry-screenshot" src="https://www.rpgfan.com/wp-content/uploads/2021/12/Sea-of-Stars-Screenshot-084.png" alt="sea of stars screenshot 1"></img>
       <br></br>
       <h3>Music & Sound</h3>
       &nbsp;&nbsp;&nbsp;Sabotage studios was able to get legendary composer Yasunori Mitsuda to contribute a number of
@@ -36,6 +37,7 @@ const Content = () => {
       a timing indicator noise that sits just right in the mix. I loved the sounds of Sea of Stars and the music especially
       compliments this beautifully rendered game.
       <br></br>
+      <img className="entry-screenshot" src="https://www.newgamenetwork.com/images/uploads/gallery/SeaofStars/seastars_07.jpg" alt="sea of stars screenshot 2"></img>
       <h3>Story</h3>
       &nbsp;&nbsp;&nbsp;Taking place within The Messenger universe, Sea of Stars story visits a few different themes including: grief, growth, friendship, pirates and of course the 
       always cliche - saving the world. Your adventure will take you to a variety of locations and biomes including snow, dessert, tropical islands deep deep under the ocean and 
@@ -45,6 +47,8 @@ const Content = () => {
       on the group throughout. Sea of Stars does a great job of incorporating a few mind bending elements such as time travel along the way to create a rich
       and entertaining experience for the player. The storytelling is strong and delivers the point but can often be a bit overly cheery and some of the character development
       was not mature enough for my taste but there are many parts that left a great impact as a whole.
+      <br></br>
+      <img className="entry-screenshot" src="https://www.rpgfan.com/wp-content/uploads/2021/12/Sea-of-Stars-Screenshot-083.png" alt="sea of stars screenshot 3"></img>
       <h2>Final Rating: 7.5 / 10</h2>
       &nbsp;&nbsp;&nbsp;Overall I had an awesome time with Sea of Stars and it has plenty of content to offer including an end game arc for players wanting a bit more. A genuinely 
       fun game with great retro appeal for the JRPG lover.

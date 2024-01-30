@@ -119,6 +119,13 @@ img,
   padding-left: 10px;
 }
 
+.entry-screenshot {
+  width: 100%;
+  height: auto;
+  align-self: center;
+  border: 1px solid rgb(255, 255, 255);
+}
+
 .entry-text {
   margin: 2px;
 }
@@ -304,6 +311,13 @@ label {
     height: auto;
     align-self: center;
     border: 2px solid rgb(255, 255, 255);
+  }
+
+  .entry-screenshot {
+    width: 100%;
+    height: auto;
+    align-self: center;
+    border: 1px solid rgb(255, 255, 255);
   }
 
   .content {
